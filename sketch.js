@@ -1,3 +1,4 @@
+
 var car,wall;
 var speed,weight;
 
